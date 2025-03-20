@@ -1,0 +1,2 @@
+rm -rf /Applications/World\ of\ Warcraft/_retail_/Interface/AddOns/TooltipParses
+cp -R ../TooltipParses /Applications/World\ of\ Warcraft/_retail_/Interface/AddOns

@@ -1,0 +1,7 @@
+## Interface: 110100
+## Version: 1.0.0
+## Title: TooltipParses
+## Notes: My first addon
+## Author: YourName
+
+TooltipParses.lua
